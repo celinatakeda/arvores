@@ -1,2 +1,2 @@
-# arvores
- Implementação da classe ArvoreBinaria
+# Arvores
+ Implementação da classe ArvoreBinaria.
